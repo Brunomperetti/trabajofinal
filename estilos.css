@@ -1,0 +1,117 @@
+.btn-outline-primary {
+  color: white;
+  background-color: black;
+  height: 30px;
+  width: 150px;
+  margin-top: 0px;
+  padding: 5px;
+
+  h1 {
+    margin-top: 60px;
+    column-count:2;
+  }
+}
+img {
+  height: 389px;
+  float: left;
+  line-height: 0;
+  position: relative;
+  top: -8px;
+  left: 0px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+ 
+}
+
+.btn:hover {
+  color: black;
+  background-color: blanchedalmond;
+  text-decoration: none;
+}
+
+.btn {
+  background-color: black;
+  margin-left: 370px;
+  margin-right: auto;
+  border-radius: 4px;
+  font-weight: 600;
+  position: relative;
+  top: -105px;
+  border: double;
+  box-sizing: content-box;
+  font-size: 20px;
+  border-color: #d4a345;
+}
+.btn-outline-secondary {
+  color: white;
+  background-color: black;
+  height: 30px;
+  width: 150px;
+  padding: 5px;
+  margin-left: 30px;
+}
+.btn-outline-success {
+  color: white;
+  background-color: black;
+  height: 30px;
+  width: 150px;
+  padding: 5px;
+  margin-left: 30px;
+}
+.btn-outline-danger {
+  color: white;
+  background-color: black;
+  height: 30px;
+  width: 150px;
+  padding: 5px;
+  margin-left: 30px;
+}
+.btn-outline-warning {
+  color: white;
+  background-color: black;
+  height: 30px;
+  width: 150px;
+  padding: 5px;
+  margin-left: 30px;
+}
+h1 {
+  color:white;
+  display: block;
+  margin-top: -10px;
+  margin-left: 250px;
+  margin-right: 250px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 20px;
+}
+
+
+
+
+body {
+  box-sizing: border-box;
+}
+
+p {
+  font-size: 17px; /* Tamaño de fuente */
+  line-height: 1.5; /* Altura de línea */
+  color: rgb(69, 69, 69); /* Color de texto */
+  margin-bottom: 20px; /* Margen inferior */
+  font-family: Arial, sans-serif; /* Familia de fuentes */
+  text-align: justify; /* Alineación justificada */
+  
+  display: block;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  
+  margin-right: 5px;
+  margin-left: 0px;
+   }
+    
+body {
+  background-color: #000000; /* establece un color de fondo sólido */
+  background-image: url("ruta/a/tu/imagen.jpg"); /* establece una imagen de fondo */
+  background-repeat: no-repeat; /* evita que la imagen se repita en la página */
+  background-size: cover; /* cubre todo el tamaño del contenedor de la página */
+  background-position: center; /* centra la imagen de fondo */
+}

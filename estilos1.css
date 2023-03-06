@@ -1,0 +1,38 @@
+p {
+    font-size: 18px; /* Tamaño de fuente */
+    line-height: 1.5; /* Altura de línea */
+    color: #333; /* Color de texto */
+    margin-bottom: 20px; /* Margen inferior */
+    font-family: Arial, sans-serif; /* Familia de fuentes */
+    text-align: justify; /* Alineación justificada */
+    text-indent: 1em; /* Sangría en la primera línea */
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    text-align: center;
+      
+  }
+  .contenedor {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  
+  
+  html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+  
+  body {
+    box-sizing: border-box;
+  }
+  body {
+    background-color: #000000; /* establece un color de fondo sólido */
+    background-image: url("ruta/a/tu/imagen.jpg"); /* establece una imagen de fondo */
+    background-repeat: no-repeat; /* evita que la imagen se repita en la página */
+    background-size: cover; /* cubre todo el tamaño del contenedor de la página */
+    background-position: center; /* centra la imagen de fondo */
+  }
+  
